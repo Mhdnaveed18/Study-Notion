@@ -9,6 +9,7 @@
     "concurrently": "^8.2.0",
     "copy-to-clipboard": "^3.3.3",
     "dotenv": "^16.3.1",
+    "install": "^0.13.0",
     "markdown": "^0.5.0",
     "react": "^18.2.0",
     "react-chartjs-2": "^5.2.0",
